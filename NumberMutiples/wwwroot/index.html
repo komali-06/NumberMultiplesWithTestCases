@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#btnSubmit").click(function () {
+                var input = $("#txtNumber").val();
+                $.ajax({
+                    url: "https://localhost:5001/api/NumbersMutiples/get/" + input,
+                    type: 'GET',
+                    success: function (res) {
+                        $("#spnOutput").text(res.output);
+                    }
+                });
+            })
+        })
+    </script>
+</head>
+<body>
+    <div class="d-flex justify-content-center align-items-center container ">
+
+        <fieldset>
+            <legend>Mulitple of Number</legend>
+            <form>
+                <div class="form-group">
+                    <label for="email">Enter Input Number</label>
+                    <input type="number" class="form-control" placeholder="Enter Number" id="txtNumber">
+                </div>
+                <button type="button" id="btnSubmit" class="btn btn-primary">Submit</button>
+                <div class="form-group">
+                    <label for="email">Output:</label>
+                    <h1 id="spnOutput"></h1>
+                </div>
+            </form>
+        </fieldset>
+        </div>
+</body>
+
+</html>

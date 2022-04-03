@@ -1,0 +1,81 @@
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.exe
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.deps.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.dev.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.csproj.AssemblyReference.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfoInputs.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfo.cs
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.csproj.CoreCompileInputs.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.Manifest.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.xml
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\scopedcss\bundle\NumberMutiples.styles.css
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.RazorTargetAssemblyInfo.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.genruntimeconfig.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.exe
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.deps.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.dev.json
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.csproj.AssemblyReference.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfoInputs.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfo.cs
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.csproj.CoreCompileInputs.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.Manifest.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.xml
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\scopedcss\bundle\NumberMutiples.styles.css
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.RazorTargetAssemblyInfo.cache
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\RAVI KUMAR V\source\repos\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.genruntimeconfig.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.exe
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.deps.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.dev.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfo.cs
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.Manifest.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.xml
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\scopedcss\bundle\NumberMutiples.styles.css
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples (2)\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.genruntimeconfig.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.exe
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.deps.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.runtimeconfig.dev.json
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\bin\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.AssemblyInfo.cs
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.Manifest.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\staticwebassets\NumberMutiples.StaticWebAssets.xml
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\scopedcss\bundle\NumberMutiples.styles.css
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.dll
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.pdb
+C:\Users\hp\Downloads\NumberMutiples (3)\NumberMutiples\NumberMutiples\NumberMutiples\obj\Debug\netcoreapp3.1\NumberMutiples.genruntimeconfig.cache
